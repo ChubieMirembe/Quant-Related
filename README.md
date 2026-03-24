@@ -2979,3 +2979,3405 @@ Focus especially on:
 - writing robust code
 - understanding limits of computation
 
+# DAYS 46–50 — FULL MERGED MATHS + PROGRAMMING (ALGORITHMIC & INTERVIEW MASTERY PHASE)
+
+---
+
+## DAY 46 — OPTIMISATION UNDER CONSTRAINTS + SEARCH STRATEGIES AND EFFICIENT DECISION MAKING
+
+Today I am studying:
+- optimisation under constraints
+- feasible regions
+- efficient search strategies
+
+And I am pairing that with programming on:
+- constrained optimisation
+- search strategies
+- pruning solutions
+
+For the maths section, teach me:
+- how constraints limit feasible solutions
+- how to:
+  - define feasible region
+  - search within constraints
+- trade-offs between:
+  - optimality
+  - feasibility
+- intuition behind:
+  - constrained optimisation
+  - feasible vs infeasible solutions
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  maximise value under constraint
+
+  Example 2:
+  trade-off problem
+
+  Example 3:
+  constrained decision problem
+
+After that, for the programming section, teach me:
+- how to implement constrained search
+- how to prune invalid solutions early
+- how to avoid brute force where possible
+- how to structure optimisation code
+
+Then show me:
+- 1 worked implementation example:
+  search optimal value within constraints
+
+- 1 worked DSA-style example:
+  constrained search problem
+
+- 1 worked quant-style example:
+  optimise trading strategy under risk constraints
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  optimise function under constraints
+
+- 1 DSA-style task:
+  solve constrained optimisation problem
+
+- 1 quant-style coding task:
+  simulate trading system with risk constraints and optimise parameters
+
+Focus especially on:
+- feasible region thinking
+- pruning search space
+- balancing optimality and constraints
+
+---
+
+## DAY 47 — DYNAMIC PROGRAMMING INTUITION + BREAKING PROBLEMS INTO SUBPROBLEMS
+
+Today I am studying:
+- dynamic programming intuition
+- overlapping subproblems
+- optimal substructure
+
+And I am pairing that with programming on:
+- memoisation
+- tabulation
+- recursive vs iterative solutions
+
+For the maths section, teach me:
+- how to recognise problems with:
+  - overlapping subproblems
+  - optimal substructure
+- how to break complex problems into smaller ones
+- intuition behind:
+  - building solutions step by step
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  simple recurrence relation
+
+  Example 2:
+  optimisation via subproblems
+
+  Example 3:
+  counting problem using recurrence
+
+After that, for the programming section, teach me:
+- how to implement dynamic programming:
+  - recursion + memoisation
+  - bottom-up approach
+- how to store intermediate results
+- how to reduce time complexity
+
+Then show me:
+- 1 worked implementation example:
+  solve problem using DP
+
+- 1 worked DSA-style example:
+  classic DP problem
+
+- 1 worked quant-style example:
+  optimise decision process over time steps
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  solve problem using DP
+
+- 1 DSA-style task:
+  classic DP problem (e.g., knapsack or LIS)
+
+- 1 quant-style coding task:
+  simulate sequential decisions and optimise outcome using DP-like approach
+
+Focus especially on:
+- breaking problems down
+- avoiding recomputation
+- structuring solutions
+
+---
+
+## DAY 48 — GREEDY ALGORITHMS + LOCAL VS GLOBAL OPTIMISATION
+
+Today I am studying:
+- greedy algorithms
+- local vs global optimisation
+- when greedy works
+
+And I am pairing that with programming on:
+- greedy strategies
+- sorting + selection
+- making decisions step-by-step
+
+For the maths section, teach me:
+- what greedy algorithms are
+- difference between:
+  - local optimal choice
+  - global optimal solution
+- when greedy works and when it fails
+- how to justify greedy correctness (intuitive)
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  simple greedy choice
+
+  Example 2:
+  scheduling problem
+
+  Example 3:
+  greedy failure case
+
+After that, for the programming section, teach me:
+- how to implement greedy solutions
+- how to sort data for greedy decisions
+- how to validate correctness
+
+Then show me:
+- 1 worked implementation example:
+  greedy solution
+
+- 1 worked DSA-style example:
+  interval scheduling
+
+- 1 worked quant-style example:
+  greedy trading decision strategy
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  implement greedy solution
+
+- 1 DSA-style task:
+  solve scheduling/selection problem
+
+- 1 quant-style coding task:
+  simulate greedy decision-making system and evaluate performance
+
+Focus especially on:
+- recognising greedy opportunities
+- avoiding incorrect greedy assumptions
+- linking greedy logic to efficiency
+
+---
+
+## DAY 49 — COMPLEXITY ANALYSIS + TIME/SPACE TRADE-OFFS AND SCALABILITY
+
+Today I am studying:
+- time complexity
+- space complexity
+- trade-offs
+
+And I am pairing that with programming on:
+- analysing algorithms
+- optimising performance
+- writing efficient code
+
+For the maths section, teach me:
+- what Big-O notation represents
+- how to analyse:
+  - loops
+  - nested loops
+  - recursion
+- time vs space trade-offs
+- why complexity matters in real systems
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  simple loop analysis
+
+  Example 2:
+  nested loops
+
+  Example 3:
+  optimisation trade-off
+
+After that, for the programming section, teach me:
+- how to analyse code complexity
+- how to improve inefficient code
+- how to identify bottlenecks
+
+Then show me:
+- 1 worked implementation example:
+  optimise naive solution
+
+- 1 worked DSA-style example:
+  analyse algorithm complexity
+
+- 1 worked quant-style example:
+  optimise simulation for speed
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  optimise inefficient code
+
+- 1 DSA-style task:
+  analyse and improve complexity
+
+- 1 quant-style coding task:
+  optimise simulation system for performance
+
+Focus especially on:
+- recognising inefficiencies
+- improving performance
+- scalability thinking
+
+---
+
+## DAY 50 — FINAL INTERVIEW PREPARATION + FULL INTEGRATION AND PERFORMANCE UNDER PRESSURE
+
+Today I am preparing for final interviews.
+
+Maths:
+- full integration of probability, statistics, optimisation
+
+Programming:
+- DSA + quant coding
+
+For the maths section, teach me:
+- how to approach problems under pressure
+- how to:
+  - structure answers clearly
+  - explain reasoning step-by-step
+- how to identify problem types quickly
+- how to recover when stuck
+
+Then show me:
+- 3 full interview-style maths problems combining multiple concepts
+
+After that, for the programming section, teach me:
+- how to write clean code under time pressure
+- how to explain code while writing
+- how to debug quickly
+- how to prioritise correctness over cleverness
+
+Then show me:
+- 1 worked implementation example:
+  full simulation problem
+
+- 1 worked DSA-style example:
+  medium interview problem
+
+- 1 worked quant-style example:
+  simulate and analyse trading system
+
+Then give me:
+- 10 maths interview questions
+- 1 implementation task:
+  full simulation problem
+
+- 1 DSA-style task:
+  medium-level coding problem
+
+- 1 quant-style coding task:
+  simulate system end-to-end and analyse results
+
+Focus especially on:
+- clarity
+- correctness
+- structured thinking
+- communication under pressure
+
+# DAYS 51–55 — FULL MERGED MATHS + PROGRAMMING (ADVANCED QUANT PHASE)
+
+---
+
+## DAY 51 — PORTFOLIO EXPECTATION + COMBINING ASSETS, WEIGHTING, AND AGGREGATION
+
+Today I am studying:
+- portfolio expected return
+- combining multiple random variables
+- weighted averages
+
+And I am pairing that with programming on:
+- weighted aggregation
+- combining data streams
+- portfolio simulation
+
+For the maths section, teach me:
+- how to compute expected return of a portfolio
+- weighted sums of random variables
+- how weights affect:
+  - expected return
+  - interpretation
+- how expectation behaves under linear combinations
+- intuition behind diversification (intro level)
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  two-asset portfolio expected return
+
+  Example 2:
+  weighted combination of multiple assets
+
+  Example 3:
+  interpreting contribution of each asset
+
+After that, for the programming section, teach me:
+- how to compute weighted averages in code
+- how to combine multiple datasets
+- how to simulate portfolio returns
+- how to structure portfolio calculations cleanly
+
+Then show me:
+- 1 worked implementation example:
+  compute weighted average return
+
+- 1 worked DSA-style example:
+  process multiple arrays with weights
+
+- 1 worked quant-style example:
+  simulate multi-asset portfolio returns
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  compute portfolio expected return from simulated data
+
+- 1 DSA-style task:
+  compute weighted sums efficiently
+
+- 1 quant-style coding task:
+  simulate multiple assets and compute portfolio return across time
+
+Focus especially on:
+- weighted thinking
+- combining components correctly
+- clean aggregation logic
+
+---
+
+## DAY 52 — PORTFOLIO VARIANCE + RISK, COVARIANCE, AND DIVERSIFICATION
+
+Today I am studying:
+- portfolio variance
+- covariance structure
+- diversification
+
+And I am pairing that with programming on:
+- covariance matrices
+- risk computation
+- multi-variable relationships
+
+For the maths section, teach me:
+- how portfolio variance depends on:
+  - individual variances
+  - covariance between assets
+- intuition behind diversification:
+  - reducing risk via low correlation
+- how correlation impacts portfolio risk
+- interpreting covariance structure
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  variance of two-asset portfolio
+
+  Example 2:
+  impact of correlation
+
+  Example 3:
+  diversification effect
+
+After that, for the programming section, teach me:
+- how to compute covariance matrix
+- how to compute portfolio variance
+- how to simulate correlated variables
+
+Then show me:
+- 1 worked implementation example:
+  compute covariance matrix
+
+- 1 worked DSA-style example:
+  process matrix-like data
+
+- 1 worked quant-style example:
+  simulate correlated asset returns and compute portfolio risk
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  compute portfolio variance from simulated returns
+
+- 1 DSA-style task:
+  process matrix data efficiently
+
+- 1 quant-style coding task:
+  simulate correlated returns and analyse risk reduction from diversification
+
+Focus especially on:
+- understanding covariance impact
+- interpreting diversification
+- handling multi-dimensional data
+
+---
+
+## DAY 53 — RANDOM PROCESSES IN FINANCE + TIME SERIES AND SEQUENTIAL DATA
+
+Today I am studying:
+- time series
+- sequential data
+- stochastic processes in finance
+
+And I am pairing that with programming on:
+- time series simulation
+- sequential processing
+- rolling calculations
+
+For the maths section, teach me:
+- what a time series is
+- how data evolves over time
+- difference between:
+  - independent observations
+  - dependent sequences
+- intuition behind:
+  - trends
+  - noise
+- basic stochastic process interpretation
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  simple time series
+
+  Example 2:
+  dependent vs independent sequences
+
+  Example 3:
+  interpreting time-based patterns
+
+After that, for the programming section, teach me:
+- how to simulate time series
+- how to compute rolling statistics
+- how to process sequential data efficiently
+
+Then show me:
+- 1 worked implementation example:
+  simulate time series
+
+- 1 worked DSA-style example:
+  rolling window calculations
+
+- 1 worked quant-style example:
+  simulate price series and compute rolling mean
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  simulate time series and compute statistics
+
+- 1 DSA-style task:
+  implement rolling window
+
+- 1 quant-style coding task:
+  simulate price data and compute rolling indicators
+
+Focus especially on:
+- time dependence
+- sequential processing
+- rolling calculations
+
+---
+
+## DAY 54 — BROWNIAN MOTION INTUITION + CONTINUOUS RANDOM PROCESSES AND APPROXIMATION
+
+Today I am studying:
+- Brownian motion (intuitive level)
+- continuous random processes
+- approximating continuous models
+
+And I am pairing that with programming on:
+- discretised simulation
+- incremental updates
+- approximating continuous processes
+
+For the maths section, teach me:
+- what Brownian motion represents intuitively
+- how continuous random movement differs from discrete
+- properties:
+  - independent increments
+  - scaling
+- why Brownian motion is important in finance
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  approximating continuous motion
+
+  Example 2:
+  incremental behaviour
+
+  Example 3:
+  interpreting variance over time
+
+After that, for the programming section, teach me:
+- how to simulate Brownian motion using small steps
+- how to approximate continuous paths
+- how to visualise or analyse paths numerically
+
+Then show me:
+- 1 worked implementation example:
+  simulate Brownian motion
+
+- 1 worked DSA-style example:
+  cumulative updates
+
+- 1 worked quant-style example:
+  simulate continuous price movement
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  simulate Brownian motion path
+
+- 1 DSA-style task:
+  cumulative sum updates
+
+- 1 quant-style coding task:
+  simulate continuous-time price model and analyse behaviour
+
+Focus especially on:
+- continuous vs discrete thinking
+- approximation methods
+- incremental updates
+
+---
+
+## DAY 55 — RISK AND RETURN TRADE-OFF + DECISION MAKING UNDER UNCERTAINTY
+
+Today I am studying:
+- risk vs return trade-off
+- decision-making under uncertainty
+- optimisation of risk-adjusted performance
+
+And I am pairing that with programming on:
+- comparing strategies
+- computing risk-adjusted metrics
+- decision evaluation
+
+For the maths section, teach me:
+- how to balance:
+  - expected return
+  - risk (variance)
+- intuition behind:
+  - risk-adjusted metrics
+- why higher return is not always better
+- how to compare strategies under uncertainty
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  comparing two strategies
+
+  Example 2:
+  risk vs return trade-off
+
+  Example 3:
+  decision under uncertainty
+
+After that, for the programming section, teach me:
+- how to compute:
+  - expected return
+  - variance
+- how to compare strategies
+- how to structure decision logic
+
+Then show me:
+- 1 worked implementation example:
+  compute return vs risk
+
+- 1 worked DSA-style example:
+  compare values across structures
+
+- 1 worked quant-style example:
+  simulate multiple strategies and compare performance
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  compute and compare risk/return metrics
+
+- 1 DSA-style task:
+  find optimal choice based on multiple criteria
+
+- 1 quant-style coding task:
+  simulate multiple trading strategies and choose best based on risk-adjusted return
+
+Focus especially on:
+- balancing risk and reward
+- making decisions under uncertainty
+- structuring comparisons clearly
+
+# DAYS 56–60 — FULL MERGED MATHS + PROGRAMMING (PORTFOLIO OPTIMISATION & FINAL INTEGRATION)
+
+---
+
+## DAY 56 — PORTFOLIO OPTIMISATION (MARKOWITZ INTUITION) + SEARCHING WEIGHT SPACE AND EFFICIENT EVALUATION
+
+Today I am studying:
+- portfolio optimisation (intuitive Markowitz framework)
+- efficient trade-off between risk and return
+- optimal allocation of weights
+
+And I am pairing that with programming on:
+- searching weight space
+- evaluating portfolio combinations
+- optimisation under constraints
+
+For the maths section, teach me:
+- the idea of optimal portfolios:
+  - maximise return for given risk
+  - minimise risk for given return
+- the concept of efficient frontier (intuitive)
+- how weights affect both:
+  - expected return
+  - variance
+- constraints:
+  - weights sum to 1
+  - no shorting (basic case)
+- why optimisation is non-trivial
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  two-asset optimal allocation
+
+  Example 2:
+  effect of changing weights
+
+  Example 3:
+  trade-off between risk and return
+
+After that, for the programming section, teach me:
+- how to:
+  - generate candidate weights
+  - compute portfolio return and risk
+- how to search for optimal weights (grid search)
+- how to avoid inefficient brute force
+- how to structure optimisation code
+
+Then show me:
+- 1 worked implementation example:
+  test multiple weight combinations and find best
+
+- 1 worked DSA-style example:
+  iterate over combinations efficiently
+
+- 1 worked quant-style example:
+  simulate portfolio optimisation across weight combinations
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  generate multiple portfolio weight combinations and find optimal one
+
+- 1 DSA-style task:
+  generate combinations of values efficiently
+
+- 1 quant-style coding task:
+  simulate multi-asset portfolio and identify optimal allocation under risk constraint
+
+Focus especially on:
+- understanding trade-offs
+- structuring optimisation clearly
+- efficient search
+
+---
+
+## DAY 57 — MATRIX INTUITION + MULTI-DIMENSIONAL DATA AND VECTORISED THINKING
+
+Today I am studying:
+- matrix and vector intuition
+- multi-dimensional relationships
+- representing systems compactly
+
+And I am pairing that with programming on:
+- working with arrays/matrices
+- vectorised operations
+- efficient computation
+
+For the maths section, teach me:
+- what vectors and matrices represent
+- how they encode relationships between variables
+- how matrix representation simplifies multi-variable systems
+- intuition behind:
+  - dot products
+  - matrix multiplication
+- how matrices relate to:
+  - covariance
+  - portfolio calculations
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  vector representation of data
+
+  Example 2:
+  matrix multiplication intuition
+
+  Example 3:
+  covariance matrix interpretation
+
+After that, for the programming section, teach me:
+- how to use arrays/matrices in code (e.g., numpy)
+- how to perform:
+  - vector operations
+  - matrix multiplication
+- how to write efficient vectorised code instead of loops
+
+Then show me:
+- 1 worked implementation example:
+  matrix operations in code
+
+- 1 worked DSA-style example:
+  process 2D array
+
+- 1 worked quant-style example:
+  compute portfolio return using matrix multiplication
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  perform matrix operations on dataset
+
+- 1 DSA-style task:
+  process 2D array efficiently
+
+- 1 quant-style coding task:
+  compute portfolio return and variance using vector/matrix representation
+
+Focus especially on:
+- multi-dimensional thinking
+- efficiency via vectorisation
+- interpreting matrices
+
+---
+
+## DAY 58 — EIGENVALUE INTUITION + PRINCIPAL DIRECTIONS AND RISK STRUCTURE
+
+Today I am studying:
+- eigenvalues and eigenvectors (intuitive)
+- principal directions
+- structure of variance
+
+And I am pairing that with programming on:
+- analysing matrices
+- interpreting eigenvalues
+- dimensional structure
+
+For the maths section, teach me:
+- what eigenvalues and eigenvectors represent (intuitively)
+- how they describe:
+  - direction of maximum variation
+- why they matter in:
+  - covariance matrices
+  - risk modelling
+- intuition behind:
+  - dominant direction
+  - variance decomposition
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  simple matrix interpretation
+
+  Example 2:
+  dominant direction intuition
+
+  Example 3:
+  application to variance
+
+After that, for the programming section, teach me:
+- how to compute eigenvalues/eigenvectors using libraries
+- how to interpret results
+- how to use them in analysis
+
+Then show me:
+- 1 worked implementation example:
+  compute eigenvalues from matrix
+
+- 1 worked DSA-style example:
+  process matrix data
+
+- 1 worked quant-style example:
+  analyse covariance matrix of returns and identify dominant risk factor
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  compute eigenvalues/eigenvectors and interpret them
+
+- 1 DSA-style task:
+  process matrix structures
+
+- 1 quant-style coding task:
+  simulate correlated returns, compute covariance matrix, and analyse eigenvalues
+
+Focus especially on:
+- interpreting eigenvalues (not just computing)
+- understanding variance structure
+- connecting theory to risk
+
+---
+
+## DAY 59 — FULL SYSTEM SIMULATION + BUILDING END-TO-END MODELS
+
+Today I am studying:
+- integration of all components
+- building full systems
+- combining probability, statistics, and optimisation
+
+And I am pairing that with programming on:
+- full system simulation
+- modular code structure
+- debugging complex systems
+
+For the maths section, teach me:
+- how to combine:
+  - probability
+  - expectation
+  - variance
+  - optimisation
+- how to structure a full model
+- how to break complex systems into components
+
+Then show me:
+- 3 fully worked maths examples combining multiple ideas
+
+After that, for the programming section, teach me:
+- how to structure large programs:
+  - separate components
+  - modular design
+- how to simulate full systems
+- how to debug step-by-step
+
+Then show me:
+- 1 worked implementation example:
+  full simulation pipeline
+
+- 1 worked DSA-style example:
+  structured data processing
+
+- 1 worked quant-style example:
+  simulate market system:
+    - price generation
+    - signals
+    - decision logic
+    - performance evaluation
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  build full simulation system
+
+- 1 DSA-style task:
+  structured data processing
+
+- 1 quant-style coding task:
+  build full trading simulation pipeline
+
+Focus especially on:
+- system thinking
+- modular design
+- debugging
+
+---
+
+## DAY 60 — FINAL MASTERY DAY + FULL INTERVIEW SIMULATION AND REVIEW
+
+Today I am consolidating everything.
+
+Maths:
+- all core topics
+
+Programming:
+- DSA + quant coding
+
+For the maths section, teach me:
+- how to:
+  - identify problem type instantly
+  - structure answers clearly
+  - explain reasoning
+- review of all major patterns:
+  - expectation
+  - conditioning
+  - symmetry
+  - case splitting
+  - processes
+
+Then show me:
+- 3 full interview-level problems combining multiple areas
+
+After that, for the programming section, teach me:
+- how to:
+  - write clean code under pressure
+  - explain decisions clearly
+  - debug quickly
+- how to approach:
+  - DSA problems
+  - quant coding tasks
+
+Then show me:
+- 1 worked implementation example:
+  full simulation
+
+- 1 worked DSA-style example:
+  medium difficulty interview problem
+
+- 1 worked quant-style example:
+  full trading system analysis
+
+Then give me:
+- 10 maths interview questions
+- 1 implementation task:
+  full system simulation
+
+- 1 DSA-style task:
+  medium difficulty problem
+
+- 1 quant-style coding task:
+  simulate, analyse, and explain full system
+
+Focus especially on:
+- clarity
+- correctness
+- structured thinking
+- communication under pressure
+
+# DAYS 61–65 — FULL MERGED MATHS + PROGRAMMING (RESEARCH & EDGE PHASE)
+
+---
+
+## DAY 61 — ADVERSARIAL THINKING + WORST-CASE ANALYSIS AND ROBUST DECISION MAKING
+
+Today I am studying:
+- adversarial reasoning
+- worst-case analysis
+- robustness vs optimality
+
+And I am pairing that with programming on:
+- stress testing systems
+- worst-case simulation
+- robustness evaluation
+
+For the maths section, teach me:
+- what adversarial thinking means
+- difference between:
+  - average case
+  - worst case
+- why optimising only for expected value can fail
+- how to reason about:
+  - worst-case loss
+  - robustness of strategies
+- how this appears in:
+  - trading
+  - decision systems
+  - algorithm design
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  strategy that looks good in expectation but fails in worst case
+
+  Example 2:
+  minimax-style reasoning
+
+  Example 3:
+  balancing expected value vs worst-case outcome
+
+After that, for the programming section, teach me:
+- how to simulate worst-case scenarios
+- how to stress test a system
+- how to design tests that break your own model
+- how to compare:
+  - average performance
+  - worst-case performance
+
+Then show me:
+- 1 worked implementation example:
+  simulate system under adversarial inputs
+
+- 1 worked DSA-style example:
+  analyse worst-case complexity
+
+- 1 worked quant-style example:
+  simulate strategy under extreme market conditions
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  stress test a system under worst-case inputs
+
+- 1 DSA-style task:
+  analyse worst-case behaviour of algorithm
+
+- 1 quant-style coding task:
+  simulate trading strategy under extreme volatility scenarios
+
+Focus especially on:
+- robustness over optimisation
+- identifying failure modes
+- thinking like an adversary
+
+---
+
+## DAY 62 — NOISY DATA + SIGNAL VS NOISE AND FILTERING
+
+Today I am studying:
+- signal vs noise
+- filtering
+- extracting information from noisy data
+
+And I am pairing that with programming on:
+- smoothing
+- filtering techniques
+- noise reduction
+
+For the maths section, teach me:
+- what noise is
+- how signal differs from noise
+- why real-world data is noisy
+- how to detect patterns in noisy environments
+- dangers of overinterpreting noise
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  noisy measurements
+
+  Example 2:
+  distinguishing signal from randomness
+
+  Example 3:
+  smoothing vs overfitting
+
+After that, for the programming section, teach me:
+- how to smooth data (e.g., moving averages)
+- how to filter signals
+- how to detect patterns robustly
+- how to avoid overreacting to noise
+
+Then show me:
+- 1 worked implementation example:
+  apply moving average
+
+- 1 worked DSA-style example:
+  sliding window
+
+- 1 worked quant-style example:
+  filter price signals
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  apply smoothing to noisy data
+
+- 1 DSA-style task:
+  implement sliding window algorithm
+
+- 1 quant-style coding task:
+  simulate noisy price series and extract signal
+
+Focus especially on:
+- separating signal from noise
+- avoiding overfitting noise
+- robust filtering
+
+---
+
+## DAY 63 — SIMULATION DESIGN + BUILDING EXPERIMENTS AND VALIDATION
+
+Today I am studying:
+- simulation design
+- experiment setup
+- validating models
+
+And I am pairing that with programming on:
+- designing simulations
+- validating results
+- testing assumptions
+
+For the maths section, teach me:
+- how to design a simulation experiment
+- how to:
+  - define assumptions
+  - define metrics
+- how to validate results
+- common mistakes in simulation
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  poorly designed simulation
+
+  Example 2:
+  correct experimental setup
+
+  Example 3:
+  validating assumptions
+
+After that, for the programming section, teach me:
+- how to structure simulation code
+- how to separate:
+  - model
+  - experiment
+  - analysis
+- how to test reliability
+
+Then show me:
+- 1 worked implementation example:
+  build structured simulation
+
+- 1 worked DSA-style example:
+  structured processing pipeline
+
+- 1 worked quant-style example:
+  simulate trading system with validation
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  design and run simulation experiment
+
+- 1 DSA-style task:
+  structure data processing pipeline
+
+- 1 quant-style coding task:
+  simulate strategy and validate assumptions
+
+Focus especially on:
+- designing experiments properly
+- separating logic clearly
+- validating results
+
+---
+
+## DAY 64 — EDGE DETECTION + FINDING SMALL ADVANTAGES IN RANDOM SYSTEMS
+
+Today I am studying:
+- identifying small edges
+- detecting subtle patterns
+- statistical advantage
+
+And I am pairing that with programming on:
+- detecting small signals
+- evaluating statistical significance
+- testing edge robustness
+
+For the maths section, teach me:
+- what an “edge” means
+- how small advantages emerge in random systems
+- how to:
+  - detect edge
+  - validate edge
+- dangers:
+  - false positives
+  - randomness mistaken for signal
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  small bias detection
+
+  Example 2:
+  false edge due to randomness
+
+  Example 3:
+  validating real advantage
+
+After that, for the programming section, teach me:
+- how to detect small patterns in data
+- how to measure statistical significance
+- how to test robustness of results
+
+Then show me:
+- 1 worked implementation example:
+  detect bias in simulated data
+
+- 1 worked DSA-style example:
+  compute statistics efficiently
+
+- 1 worked quant-style example:
+  detect profitable pattern in trading data
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  detect small bias in simulated system
+
+- 1 DSA-style task:
+  compute statistics efficiently
+
+- 1 quant-style coding task:
+  simulate trading system and identify small edge
+
+Focus especially on:
+- avoiding false signals
+- validating edge properly
+- thinking critically
+
+---
+
+## DAY 65 — RESEARCH THINKING + FORMULATING AND TESTING NEW IDEAS
+
+Today I am studying:
+- research mindset
+- hypothesis generation
+- iterative improvement
+
+And I am pairing that with programming on:
+- experimentation
+- iteration
+- refinement
+
+For the maths section, teach me:
+- how to:
+  - form hypotheses
+  - test ideas
+- how to iterate:
+  - idea → test → refine
+- how research differs from problem-solving
+- how to think beyond standard problems
+
+Then show me:
+- 3 fully worked examples:
+
+  Example 1:
+  form hypothesis and test
+
+  Example 2:
+  refine flawed idea
+
+  Example 3:
+  iterative improvement
+
+After that, for the programming section, teach me:
+- how to:
+  - build experiments quickly
+  - test ideas efficiently
+  - iterate on code
+- how to avoid overengineering early
+
+Then show me:
+- 1 worked implementation example:
+  test hypothesis via simulation
+
+- 1 worked DSA-style example:
+  iterative improvement
+
+- 1 worked quant-style example:
+  test and refine trading idea
+
+Then give me:
+- 10 maths questions (open-ended style)
+- 1 implementation task:
+  design and test your own idea
+
+- 1 DSA-style task:
+  improve inefficient solution iteratively
+
+- 1 quant-style coding task:
+  design, simulate, and refine a simple trading idea
+
+Focus especially on:
+- thinking independently
+- testing ideas properly
+- iterating quickly
+
+# DAYS 66–70 — FULL MERGED MATHS + PROGRAMMING (ELITE / TOP-TIER PHASE)
+
+---
+
+## DAY 66 — GAME THEORY INTUITION + STRATEGIC INTERACTION AND OPTIMAL DECISIONS
+
+Today I am studying:
+- game theory intuition
+- strategic interaction
+- optimal decision-making when others react
+
+And I am pairing that with programming on:
+- simulating competing agents
+- evaluating strategies
+- equilibrium-like behaviour
+
+For the maths section, teach me:
+- what game theory is (intuitive, not formal)
+- how decisions depend on:
+  - other agents
+  - expectations of others
+- concepts:
+  - best response
+  - dominant strategy (intuitive)
+- how game theory appears in:
+  - markets
+  - auctions
+  - competitive systems
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  simple two-player decision problem
+
+  Example 2:
+  strategic trade-off
+
+  Example 3:
+  equilibrium intuition
+
+After that, for the programming section, teach me:
+- how to simulate interacting agents
+- how to model decisions that depend on others
+- how to evaluate strategy outcomes
+
+Then show me:
+- 1 worked implementation example:
+  simulate two competing agents
+
+- 1 worked DSA-style example:
+  decision-making under constraints
+
+- 1 worked quant-style example:
+  simulate competing trading strategies
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  simulate interacting agents and evaluate outcomes
+
+- 1 DSA-style task:
+  implement decision logic under constraints
+
+- 1 quant-style coding task:
+  simulate multiple trading agents competing for profit
+
+Focus especially on:
+- thinking beyond single-agent optimisation
+- anticipating reactions
+- strategic reasoning
+
+---
+
+## DAY 67 — INFORMATION THEORY INTUITION + UNCERTAINTY, ENTROPY, AND INFORMATION VALUE
+
+Today I am studying:
+- information theory intuition
+- entropy (conceptual)
+- value of information
+
+And I am pairing that with programming on:
+- measuring uncertainty
+- comparing distributions
+- evaluating information gain
+
+For the maths section, teach me:
+- what entropy represents (uncertainty)
+- how information reduces uncertainty
+- intuition behind:
+  - high entropy vs low entropy
+- why information has value in decision-making
+
+Then show me:
+- 3 fully worked maths examples:
+
+  Example 1:
+  entropy of simple distributions
+
+  Example 2:
+  comparing uncertainty
+
+  Example 3:
+  value of information
+
+After that, for the programming section, teach me:
+- how to compute entropy (basic implementation)
+- how to compare distributions
+- how to evaluate reduction in uncertainty
+
+Then show me:
+- 1 worked implementation example:
+  compute entropy from data
+
+- 1 worked DSA-style example:
+  frequency distribution
+
+- 1 worked quant-style example:
+  evaluate usefulness of signal
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  compute entropy and compare distributions
+
+- 1 DSA-style task:
+  build frequency map
+
+- 1 quant-style coding task:
+  simulate signals and measure reduction in uncertainty
+
+Focus especially on:
+- understanding uncertainty
+- valuing information correctly
+- linking information → decision quality
+
+---
+
+## DAY 68 — INTERVIEW TRAPS + MISDIRECTION, EDGE CASES, AND DEEP REASONING
+
+Today I am studying:
+- interview traps
+- misdirection
+- edge cases
+
+And I am pairing that with programming on:
+- defensive coding
+- handling edge cases
+- debugging logic
+
+For the maths section, teach me:
+- common traps:
+  - assuming independence
+  - missing conditioning
+  - ignoring edge cases
+- how to:
+  - slow down thinking
+  - check assumptions
+- how to handle ambiguous questions
+
+Then show me:
+- 3 fully worked maths examples where:
+  - naive approach fails
+  - correct reasoning fixes it
+
+After that, for the programming section, teach me:
+- how to:
+  - identify edge cases
+  - test boundary conditions
+  - write defensive code
+- common bugs in interviews
+
+Then show me:
+- 1 worked implementation example:
+  bug + fix
+
+- 1 worked DSA-style example:
+  edge case handling
+
+- 1 worked quant-style example:
+  flawed simulation corrected
+
+Then give me:
+- 10 tricky maths questions
+- 1 implementation task:
+  debug flawed code
+
+- 1 DSA-style task:
+  handle edge cases correctly
+
+- 1 quant-style coding task:
+  identify and fix incorrect assumptions in simulation
+
+Focus especially on:
+- not rushing
+- questioning assumptions
+- catching traps early
+
+---
+
+## DAY 69 — COMMUNICATION + EXPLAINING COMPLEX IDEAS CLEARLY
+
+Today I am studying:
+- communication of technical ideas
+- structuring explanations
+- clarity under pressure
+
+And I am pairing that with programming on:
+- explaining code
+- writing readable solutions
+- documenting logic
+
+For the maths section, teach me:
+- how to:
+  - explain reasoning step-by-step
+  - simplify complex ideas
+- how to structure answers:
+  - setup → reasoning → result
+- how to communicate uncertainty
+
+Then show me:
+- 3 fully worked examples:
+  same problem solved, then explained clearly
+
+After that, for the programming section, teach me:
+- how to:
+  - write readable code
+  - explain decisions while coding
+- how to structure code for clarity
+
+Then show me:
+- 1 worked implementation example:
+  code + explanation
+
+- 1 worked DSA-style example:
+  clean solution explanation
+
+- 1 worked quant-style example:
+  explain simulation results clearly
+
+Then give me:
+- 10 maths explanation questions
+- 1 implementation task:
+  write code and explain it
+
+- 1 DSA-style task:
+  solve and explain clearly
+
+- 1 quant-style coding task:
+  simulate system and present findings clearly
+
+Focus especially on:
+- clarity
+- structure
+- explaining thinking
+
+---
+
+## DAY 70 — FINAL TOP-TIER SIMULATION + FULL QUANT INTERVIEW (ELITE LEVEL)
+
+Today I am simulating a top-tier quant interview.
+
+Maths:
+- deep probability, expectation, processes
+
+Programming:
+- DSA + quant coding
+
+For the maths section, teach me:
+- how to:
+  - approach unknown problems
+  - structure reasoning
+  - handle follow-up questions
+- how to:
+  - adapt when stuck
+  - refine answers
+
+Then show me:
+- 3 elite-level interview problems:
+  multi-step, open-ended, deep reasoning
+
+After that, for the programming section, teach me:
+- how to:
+  - write clean, efficient code under pressure
+  - explain trade-offs
+  - debug live
+- how to handle:
+  - ambiguous requirements
+
+Then show me:
+- 1 worked implementation example:
+  full system
+
+- 1 worked DSA-style example:
+  challenging interview problem
+
+- 1 worked quant-style example:
+  simulate and analyse complex system
+
+Then give me:
+- 10 elite-level maths questions
+- 1 implementation task:
+  full system simulation
+
+- 1 DSA-style task:
+  challenging problem
+
+- 1 quant-style coding task:
+  simulate, analyse, and present full system
+
+Focus especially on:
+- depth of reasoning
+- adaptability
+- communication
+- confidence under pressure
+
+# DAYS 71–75 — FULL MERGED MATHS + PROGRAMMING (ELITE PERFORMANCE PHASE)
+
+---
+
+## DAY 71 — SPEED + MENTAL MODELS AND INSTANT PROBLEM RECOGNITION
+
+Today I am studying:
+- speed of reasoning
+- recognising problem patterns instantly
+- mental shortcuts (without losing correctness)
+
+And I am pairing that with programming on:
+- rapid implementation
+- pattern recognition in code
+- reducing cognitive load
+
+For the maths section, teach me:
+- how to quickly identify problem types:
+  - expectation
+  - conditioning
+  - symmetry
+  - case splitting
+  - processes
+- how to map problems to known templates
+- how to avoid re-deriving everything from scratch
+- how to balance speed vs correctness
+
+Then show me:
+- 3 fully worked problems where:
+  - initial recognition is key
+  - solving quickly depends on pattern recognition
+
+After that, for the programming section, teach me:
+- how to recognise common patterns:
+  - counting
+  - prefix sums
+  - simulation loops
+- how to implement solutions quickly without errors
+- how to reduce mental overhead
+
+Then show me:
+- 1 worked implementation example:
+  fast simulation
+
+- 1 worked DSA-style example:
+  pattern-based problem
+
+- 1 worked quant-style example:
+  quick EV computation
+
+Then give me:
+- 10 timed maths questions
+- 1 implementation task:
+  solve simulation problem quickly
+
+- 1 DSA-style task:
+  pattern recognition problem
+
+- 1 quant-style coding task:
+  compute EV quickly under constraints
+
+Focus especially on:
+- recognising patterns instantly
+- avoiding unnecessary steps
+- building intuition speed
+
+---
+
+## DAY 72 — REASONING UNDER UNCERTAINTY + HANDLING AMBIGUOUS PROBLEMS
+
+Today I am studying:
+- ambiguous problem-solving
+- reasoning with incomplete information
+- making assumptions explicit
+
+And I am pairing that with programming on:
+- handling uncertain inputs
+- writing flexible code
+- building adaptable systems
+
+For the maths section, teach me:
+- how to handle problems where:
+  - information is missing
+  - assumptions must be made
+- how to:
+  - state assumptions clearly
+  - proceed logically
+- how to deal with multiple valid interpretations
+
+Then show me:
+- 3 fully worked maths examples:
+  ambiguous problems with different interpretations
+
+After that, for the programming section, teach me:
+- how to write code that handles uncertain inputs
+- how to structure flexible solutions
+- how to document assumptions
+
+Then show me:
+- 1 worked implementation example:
+  flexible simulation
+
+- 1 worked DSA-style example:
+  handle edge cases and unknown inputs
+
+- 1 worked quant-style example:
+  simulate system with uncertain parameters
+
+Then give me:
+- 10 ambiguous maths questions
+- 1 implementation task:
+  write code handling uncertain inputs
+
+- 1 DSA-style task:
+  handle edge cases robustly
+
+- 1 quant-style coding task:
+  simulate system with unknown parameters and test different assumptions
+
+Focus especially on:
+- clarity of assumptions
+- structured reasoning
+- adaptability
+
+---
+
+## DAY 73 — MULTI-LAYER PROBLEMS + STACKING CONCEPTS AND DEEP REASONING
+
+Today I am studying:
+- multi-layer problems
+- combining multiple concepts
+- deep reasoning
+
+And I am pairing that with programming on:
+- multi-stage systems
+- layered logic
+- structured problem decomposition
+
+For the maths section, teach me:
+- how to approach problems that involve:
+  - multiple concepts at once
+- how to:
+  - break problems into layers
+  - solve step-by-step
+- how to avoid getting lost in complexity
+
+Then show me:
+- 3 fully worked maths examples:
+  multi-layer problems combining:
+    - expectation
+    - conditioning
+    - processes
+
+After that, for the programming section, teach me:
+- how to structure complex code
+- how to separate components
+- how to debug layered logic
+
+Then show me:
+- 1 worked implementation example:
+  multi-stage simulation
+
+- 1 worked DSA-style example:
+  layered problem
+
+- 1 worked quant-style example:
+  full system with multiple interacting parts
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  simulate multi-stage system
+
+- 1 DSA-style task:
+  multi-step problem
+
+- 1 quant-style coding task:
+  simulate system combining:
+    - randomness
+    - decision logic
+    - evaluation
+
+Focus especially on:
+- breaking complexity
+- structured thinking
+- layering solutions
+
+---
+
+## DAY 74 — EDGE CASE MASTERY + EXTREME SCENARIOS AND FAILURE ANALYSIS
+
+Today I am studying:
+- edge cases
+- extreme scenarios
+- failure analysis
+
+And I am pairing that with programming on:
+- defensive coding
+- testing extreme inputs
+- robustness
+
+For the maths section, teach me:
+- how to identify edge cases:
+  - limits
+  - extreme values
+  - boundary conditions
+- how to:
+  - test reasoning under extremes
+- why edge cases reveal deeper understanding
+
+Then show me:
+- 3 fully worked maths examples where:
+  - edge cases change the answer
+
+After that, for the programming section, teach me:
+- how to:
+  - identify edge cases
+  - test boundary conditions
+- how to write robust code
+
+Then show me:
+- 1 worked implementation example:
+  edge case testing
+
+- 1 worked DSA-style example:
+  boundary conditions
+
+- 1 worked quant-style example:
+  stress test trading model
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  test system under extreme inputs
+
+- 1 DSA-style task:
+  handle edge cases correctly
+
+- 1 quant-style coding task:
+  simulate extreme scenarios and analyse behaviour
+
+Focus especially on:
+- robustness
+- failure detection
+- completeness of reasoning
+
+---
+
+## DAY 75 — FINAL ELITE PERFORMANCE + REAL-TIME THINKING AND CONFIDENCE
+
+Today I am performing at elite level.
+
+Maths:
+- full integration
+
+Programming:
+- full integration
+
+For the maths section, teach me:
+- how to:
+  - think clearly under pressure
+  - structure answers instantly
+  - explain reasoning confidently
+- how to:
+  - recover from mistakes
+  - adapt quickly
+
+Then show me:
+- 3 elite-level problems:
+  deep reasoning, open-ended, multi-step
+
+After that, for the programming section, teach me:
+- how to:
+  - write clean code quickly
+  - explain decisions clearly
+  - debug under pressure
+
+Then show me:
+- 1 worked implementation example:
+  full system
+
+- 1 worked DSA-style example:
+  challenging problem
+
+- 1 worked quant-style example:
+  simulate and analyse system
+
+Then give me:
+- 10 elite-level maths questions
+- 1 implementation task:
+  full system simulation
+
+- 1 DSA-style task:
+  challenging problem
+
+- 1 quant-style coding task:
+  simulate, analyse, and explain system
+
+Focus especially on:
+- confidence
+- clarity
+- adaptability
+- performance
+
+# DAYS 76–80 — FULL MERGED MATHS + PROGRAMMING (RESEARCH MASTERY & ORIGINAL THINKING)
+
+---
+
+## DAY 76 — OPEN-ENDED PROBLEM SOLVING + FROM QUESTION TO FRAMEWORK
+
+Today I am studying:
+- open-ended problems
+- turning vague questions into structured models
+- building frameworks from scratch
+
+And I am pairing that with programming on:
+- designing systems without predefined structure
+- building modular code from unclear requirements
+
+For the maths section, teach me:
+- how to approach problems where:
+  - there is no clear method
+  - the solution is not obvious
+- how to:
+  - define variables
+  - identify structure
+  - reduce complexity
+- how to turn vague questions into solvable problems
+
+Then show me:
+- 3 fully worked examples:
+  - open-ended problems turned into structured solutions
+
+After that, for the programming section, teach me:
+- how to:
+  - design code from scratch
+  - structure systems without a clear template
+- how to:
+  - break problems into modules
+
+Then show me:
+- 1 worked implementation example:
+  build system from vague description
+
+- 1 worked DSA-style example:
+  structure solution without predefined pattern
+
+- 1 worked quant-style example:
+  simulate system from loosely defined rules
+
+Then give me:
+- 10 open-ended maths questions
+- 1 implementation task:
+  build system from vague requirements
+
+- 1 DSA-style task:
+  design solution from scratch
+
+- 1 quant-style coding task:
+  simulate system with minimal instructions
+
+Focus especially on:
+- structuring ambiguity
+- creating frameworks
+- thinking independently
+
+---
+
+## DAY 77 — MODEL CRITIQUE + BREAKING MODELS AND IDENTIFYING WEAKNESSES
+
+Today I am studying:
+- model critique
+- identifying weaknesses
+- challenging assumptions
+
+And I am pairing that with programming on:
+- breaking systems
+- testing assumptions
+- adversarial debugging
+
+For the maths section, teach me:
+- how to:
+  - critique a model
+  - identify unrealistic assumptions
+- how to:
+  - test robustness
+  - challenge results
+- why good models fail
+
+Then show me:
+- 3 fully worked examples:
+  flawed models analysed and improved
+
+After that, for the programming section, teach me:
+- how to:
+  - test edge cases
+  - break your own code
+- how to:
+  - identify hidden bugs
+
+Then show me:
+- 1 worked implementation example:
+  flawed model → fix
+
+- 1 worked DSA-style example:
+  bug detection
+
+- 1 worked quant-style example:
+  trading model critique
+
+Then give me:
+- 10 maths critique questions
+- 1 implementation task:
+  identify and fix flaws in system
+
+- 1 DSA-style task:
+  debug complex logic
+
+- 1 quant-style coding task:
+  analyse trading model and identify weaknesses
+
+Focus especially on:
+- sceptical thinking
+- breaking assumptions
+- improving systems
+
+---
+
+## DAY 78 — SCALING THINKING + FROM SMALL MODELS TO LARGE SYSTEMS
+
+Today I am studying:
+- scaling reasoning
+- moving from simple to complex systems
+- generalisation
+
+And I am pairing that with programming on:
+- scaling algorithms
+- performance under large inputs
+- system design thinking
+
+For the maths section, teach me:
+- how to:
+  - extend small models to large systems
+- how complexity changes behaviour
+- how assumptions break at scale
+
+Then show me:
+- 3 fully worked examples:
+  small → large system transitions
+
+After that, for the programming section, teach me:
+- how to:
+  - scale code
+  - handle large inputs
+- how to:
+  - optimise for performance
+
+Then show me:
+- 1 worked implementation example:
+  scale simulation
+
+- 1 worked DSA-style example:
+  optimise algorithm
+
+- 1 worked quant-style example:
+  scale trading simulation
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  scale small model
+
+- 1 DSA-style task:
+  optimise solution for large input
+
+- 1 quant-style coding task:
+  simulate system at scale and analyse performance
+
+Focus especially on:
+- scalability
+- performance
+- generalisation
+
+---
+
+## DAY 79 — CREATIVITY + INVENTING APPROACHES AND NON-STANDARD THINKING
+
+Today I am studying:
+- creative problem solving
+- inventing new approaches
+- non-standard thinking
+
+And I am pairing that with programming on:
+- unconventional solutions
+- exploring alternatives
+- thinking beyond templates
+
+For the maths section, teach me:
+- how to:
+  - think beyond standard methods
+  - explore multiple approaches
+- how to:
+  - reframe problems
+- how creativity appears in quant research
+
+Then show me:
+- 3 fully worked examples:
+  unconventional solutions
+
+After that, for the programming section, teach me:
+- how to:
+  - approach problems creatively
+  - try alternative implementations
+
+Then show me:
+- 1 worked implementation example:
+  unconventional solution
+
+- 1 worked DSA-style example:
+  non-standard approach
+
+- 1 worked quant-style example:
+  creative trading idea
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  solve problem using unconventional method
+
+- 1 DSA-style task:
+  alternative solution
+
+- 1 quant-style coding task:
+  design creative trading strategy
+
+Focus especially on:
+- originality
+- flexibility
+- exploration
+
+---
+
+## DAY 80 — FINAL RESEARCH MODE + FROM PROBLEM SOLVER TO PROBLEM CREATOR
+
+Today I am transitioning to research mode.
+
+Maths:
+- full integration
+
+Programming:
+- full integration
+
+For the maths section, teach me:
+- how to:
+  - create problems
+  - define research questions
+- how to:
+  - explore unknown areas
+- how to think like a researcher
+
+Then show me:
+- 3 examples:
+  from idea → question → model → result
+
+After that, for the programming section, teach me:
+- how to:
+  - build experiments
+  - test ideas
+  - iterate continuously
+
+Then show me:
+- 1 worked implementation example:
+  full research pipeline
+
+- 1 worked DSA-style example:
+  evolving solution
+
+- 1 worked quant-style example:
+  build and test new model
+
+Then give me:
+- 10 open-ended problems
+- 1 implementation task:
+  design full experiment
+
+- 1 DSA-style task:
+  evolve solution iteratively
+
+- 1 quant-style coding task:
+  create, simulate, and refine your own trading model
+
+Focus especially on:
+- independence
+- curiosity
+- iterative improvement
+
+# DAYS 81–85 — FULL MERGED MATHS + PROGRAMMING (CONVERSION & EXECUTION PHASE)
+
+---
+
+## DAY 81 — ZERO-TO-SOLUTION SPEED + FROM FIRST READ TO STRUCTURED ANSWER
+
+Today I am studying:
+- going from reading a problem → structured solution instantly
+- eliminating hesitation
+- building immediate clarity
+
+And I am pairing that with programming on:
+- rapid code structuring
+- writing solutions without rethinking multiple times
+
+For the maths section, teach me:
+- how to approach a problem in <30 seconds:
+  - identify type
+  - identify structure
+  - identify approach
+- how to:
+  - avoid “blank mind”
+  - force structured thinking
+- how to create a repeatable problem-solving template
+
+Then show me:
+- 3 fully worked problems:
+  each solved step-by-step from first read to final answer
+
+After that, for the programming section, teach me:
+- how to:
+  - sketch solution before coding
+  - avoid rewriting code
+- how to:
+  - move from idea → implementation quickly
+
+Then show me:
+- 1 worked implementation example:
+  rapid solution
+
+- 1 worked DSA-style example:
+  structured coding approach
+
+- 1 worked quant-style example:
+  quick simulation
+
+Then give me:
+- 10 timed maths problems
+- 1 implementation task:
+  solve under strict time
+
+- 1 DSA-style task:
+  structured coding
+
+- 1 quant-style coding task:
+  implement and explain quickly
+
+Focus especially on:
+- speed from first read
+- structured thinking
+- eliminating hesitation
+
+---
+
+## DAY 82 — PRECISION + ELIMINATING SMALL ERRORS AND SILLY MISTAKES
+
+Today I am studying:
+- precision in reasoning
+- eliminating careless mistakes
+- tightening logic
+
+And I am pairing that with programming on:
+- bug-free coding
+- careful handling of edge cases
+- validating outputs
+
+For the maths section, teach me:
+- where mistakes happen:
+  - arithmetic slips
+  - wrong assumptions
+  - missing conditions
+- how to:
+  - check answers quickly
+  - validate reasoning
+
+Then show me:
+- 3 fully worked examples:
+  incorrect vs corrected reasoning
+
+After that, for the programming section, teach me:
+- how to:
+  - catch bugs early
+  - validate results
+- how to:
+  - write safer code
+
+Then show me:
+- 1 worked implementation example:
+  bug → fix
+
+- 1 worked DSA-style example:
+  edge case fix
+
+- 1 worked quant-style example:
+  incorrect simulation corrected
+
+Then give me:
+- 10 maths questions (precision focused)
+- 1 implementation task:
+  debug code
+
+- 1 DSA-style task:
+  handle edge cases
+
+- 1 quant-style coding task:
+  correct flawed system
+
+Focus especially on:
+- correctness over speed
+- catching mistakes early
+- disciplined thinking
+
+---
+
+## DAY 83 — FOLLOW-UP DEPTH + HANDLING INTERVIEW PUSHBACK
+
+Today I am studying:
+- handling follow-up questions
+- going deeper into problems
+- defending reasoning
+
+And I am pairing that with programming on:
+- extending solutions
+- modifying code live
+- adapting quickly
+
+For the maths section, teach me:
+- how to handle:
+  - “what if” questions
+  - extensions of problem
+- how to:
+  - go deeper without panic
+  - refine answers
+
+Then show me:
+- 3 fully worked examples:
+  base problem → multiple follow-ups
+
+After that, for the programming section, teach me:
+- how to:
+  - modify code live
+  - extend solutions
+- how to:
+  - adapt quickly
+
+Then show me:
+- 1 worked implementation example:
+  extend system
+
+- 1 worked DSA-style example:
+  follow-up variation
+
+- 1 worked quant-style example:
+  extend trading model
+
+Then give me:
+- 10 maths problems with follow-ups
+- 1 implementation task:
+  extend code
+
+- 1 DSA-style task:
+  modify solution
+
+- 1 quant-style coding task:
+  extend simulation
+
+Focus especially on:
+- adaptability
+- depth
+- staying composed under pressure
+
+---
+
+## DAY 84 — CONFIDENCE + PRESENCE AND THINKING OUT LOUD
+
+Today I am studying:
+- confidence in problem-solving
+- communicating clearly
+- thinking out loud
+
+And I am pairing that with programming on:
+- explaining code clearly
+- narrating reasoning
+- maintaining clarity under pressure
+
+For the maths section, teach me:
+- how to:
+  - speak while thinking
+  - structure explanations
+- how to:
+  - sound confident without guessing
+
+Then show me:
+- 3 fully worked examples:
+  same problem explained clearly
+
+After that, for the programming section, teach me:
+- how to:
+  - explain code line-by-line
+  - justify decisions
+
+Then show me:
+- 1 worked implementation example:
+  code + explanation
+
+- 1 worked DSA-style example:
+  explain solution
+
+- 1 worked quant-style example:
+  explain simulation
+
+Then give me:
+- 10 maths explanation questions
+- 1 implementation task:
+  code + explain
+
+- 1 DSA-style task:
+  explain solution
+
+- 1 quant-style coding task:
+  simulate + explain results
+
+Focus especially on:
+- clarity
+- presence
+- confidence
+
+---
+
+## DAY 85 — FINAL CONVERSION + FROM PREP TO OFFER
+
+Today I am converting preparation into performance.
+
+Maths:
+- full mastery
+
+Programming:
+- full mastery
+
+For the maths section, teach me:
+- how to:
+  - perform at peak level
+  - handle pressure
+  - recover from mistakes
+- how to:
+  - close interviews strongly
+
+Then show me:
+- 3 full interview simulations
+
+After that, for the programming section, teach me:
+- how to:
+  - write clean code under pressure
+  - communicate clearly
+- how to:
+  - finish strong
+
+Then show me:
+- 1 worked implementation example:
+  full system
+
+- 1 worked DSA-style example:
+  interview problem
+
+- 1 worked quant-style example:
+  full simulation
+
+Then give me:
+- 10 final interview questions
+- 1 implementation task:
+  full system
+
+- 1 DSA-style task:
+  interview problem
+
+- 1 quant-style coding task:
+  full simulation and explanation
+
+Focus especially on:
+- execution
+- confidence
+- closing strong
+
+# DAYS 86–90 — FULL MERGED MATHS + PROGRAMMING (ENDGAME / IDENTITY PHASE)
+
+---
+
+## DAY 86 — CONSISTENCY + REPEATABLE PERFORMANCE UNDER VARIATION
+
+Today I am studying:
+- consistency
+- repeatable performance
+- reducing variance in my own thinking
+
+And I am pairing that with programming on:
+- writing reliable code every time
+- eliminating variability in output
+
+For the maths section, teach me:
+- why consistency matters more than peak performance
+- how to:
+  - produce correct solutions repeatedly
+- how variance exists not just in data — but in thinking
+- how to stabilise reasoning under different problem types
+
+Then show me:
+- 3 fully worked examples:
+  same type of problem solved consistently across variations
+
+After that, for the programming section, teach me:
+- how to:
+  - write consistent, clean code
+  - avoid “sometimes works” solutions
+- how to:
+  - standardise coding patterns
+
+Then show me:
+- 1 worked implementation example:
+  consistent solution pattern
+
+- 1 worked DSA-style example:
+  repeated structure
+
+- 1 worked quant-style example:
+  stable simulation pipeline
+
+Then give me:
+- 10 maths problems (same pattern, different variations)
+- 1 implementation task:
+  solve multiple variations with same structure
+
+- 1 DSA-style task:
+  consistent approach across inputs
+
+- 1 quant-style coding task:
+  simulate system with multiple variations and ensure consistent output
+
+Focus especially on:
+- repeatability
+- reliability
+- removing randomness in performance
+
+---
+
+## DAY 87 — SELF-CORRECTION + REAL-TIME ERROR DETECTION
+
+Today I am studying:
+- self-correction
+- detecting mistakes mid-solution
+- adjusting without losing structure
+
+And I am pairing that with programming on:
+- debugging while coding
+- identifying errors early
+
+For the maths section, teach me:
+- how to:
+  - detect mistakes while solving
+  - pause and correct without restarting
+- how to:
+  - sanity-check results quickly
+- how to recognise when something feels “off”
+
+Then show me:
+- 3 fully worked examples:
+  incorrect solution → detected → corrected
+
+After that, for the programming section, teach me:
+- how to:
+  - debug while writing code
+  - identify logical errors early
+- how to:
+  - fix issues without rewriting everything
+
+Then show me:
+- 1 worked implementation example:
+  error → detection → correction
+
+- 1 worked DSA-style example:
+  bug fixed mid-process
+
+- 1 worked quant-style example:
+  flawed simulation corrected live
+
+Then give me:
+- 10 maths questions (with traps)
+- 1 implementation task:
+  debug flawed code
+
+- 1 DSA-style task:
+  detect and fix bug
+
+- 1 quant-style coding task:
+  identify and correct incorrect assumptions in model
+
+Focus especially on:
+- awareness
+- correction without panic
+- maintaining structure
+
+---
+
+## DAY 88 — INTUITION VS FORMALITY + KNOWING WHEN TO SIMPLIFY
+
+Today I am studying:
+- balancing intuition and formal methods
+- knowing when to simplify vs derive
+
+And I am pairing that with programming on:
+- choosing simple vs complex implementations
+- avoiding unnecessary computation
+
+For the maths section, teach me:
+- when to:
+  - use intuition (symmetry, expectation tricks)
+  - use formal derivation
+- how to:
+  - simplify problems quickly
+- how overcomplication hurts performance
+
+Then show me:
+- 3 fully worked examples:
+  complex solution vs simple insight
+
+After that, for the programming section, teach me:
+- how to:
+  - choose simplest correct implementation
+- how to:
+  - avoid overengineering
+
+Then show me:
+- 1 worked implementation example:
+  simplified solution
+
+- 1 worked DSA-style example:
+  efficient approach vs naive
+
+- 1 worked quant-style example:
+  simplified simulation
+
+Then give me:
+- 10 maths questions (multiple solution paths)
+- 1 implementation task:
+  solve using simplest approach
+
+- 1 DSA-style task:
+  optimise solution
+
+- 1 quant-style coding task:
+  implement efficient simulation
+
+Focus especially on:
+- simplicity
+- clarity
+- choosing the right level of complexity
+
+---
+
+## DAY 89 — COMPOSURE + PERFORMING UNDER PRESSURE
+
+Today I am studying:
+- composure
+- managing pressure
+- maintaining clarity under stress
+
+And I am pairing that with programming on:
+- coding under time pressure
+- avoiding panic-driven mistakes
+
+For the maths section, teach me:
+- how pressure affects thinking
+- how to:
+  - slow down when needed
+  - maintain structure
+- how to:
+  - recover from difficult moments
+
+Then show me:
+- 3 fully worked examples:
+  difficult problems solved calmly
+
+After that, for the programming section, teach me:
+- how to:
+  - code under time pressure
+  - avoid rushed mistakes
+- how to:
+  - prioritise correctness
+
+Then show me:
+- 1 worked implementation example:
+  timed solution
+
+- 1 worked DSA-style example:
+  pressure scenario
+
+- 1 worked quant-style example:
+  fast simulation under time constraint
+
+Then give me:
+- 10 timed maths questions
+- 1 implementation task:
+  solve under time constraint
+
+- 1 DSA-style task:
+  timed coding
+
+- 1 quant-style coding task:
+  implement and analyse quickly
+
+Focus especially on:
+- staying calm
+- structured thinking
+- controlling pace
+
+---
+
+## DAY 90 — IDENTITY SHIFT + THINKING LIKE A QUANT RESEARCHER
+
+Today I am transitioning fully.
+
+Maths:
+- complete integration
+
+Programming:
+- complete integration
+
+For the maths section, teach me:
+- how to:
+  - think like a quant researcher
+  - approach problems with curiosity
+- how to:
+  - ask better questions
+  - challenge assumptions
+
+Then show me:
+- 3 fully worked examples:
+  from problem → insight → deeper question
+
+After that, for the programming section, teach me:
+- how to:
+  - build tools, not just solutions
+  - think in systems
+- how to:
+  - iterate on ideas
+
+Then show me:
+- 1 worked implementation example:
+  build tool/system
+
+- 1 worked DSA-style example:
+  evolve solution
+
+- 1 worked quant-style example:
+  design and test strategy
+
+Then give me:
+- 10 open-ended questions
+- 1 implementation task:
+  build tool from scratch
+
+- 1 DSA-style task:
+  evolve solution iteratively
+
+- 1 quant-style coding task:
+  design, simulate, and analyse your own system
+
+Focus especially on:
+- independence
+- curiosity
+- ownership of thinking
+
+# DAYS 91–95 — FULL MERGED MATHS + PROGRAMMING (REAL-WORLD & SUSTAINED EXCELLENCE PHASE)
+
+---
+
+## DAY 91 — REAL-WORLD MAPPING + FROM ABSTRACT PROBLEMS TO MARKET SCENARIOS
+
+Today I am studying:
+- mapping abstract problems to real-world situations
+- translating math into practical intuition
+
+And I am pairing that with programming on:
+- modelling real-world systems
+- translating ideas into code
+
+For the maths section, teach me:
+- how to take abstract problems (dice, coins, etc.) and map them to:
+  - markets
+  - trading decisions
+- how to:
+  - reinterpret problems in real-world terms
+- how to move from theory → intuition
+
+Then show me:
+- 3 fully worked examples:
+  abstract problem → real-world interpretation
+
+After that, for the programming section, teach me:
+- how to:
+  - build models based on real-world assumptions
+- how to:
+  - translate conceptual logic into code
+
+Then show me:
+- 1 worked implementation example:
+  real-world model
+
+- 1 worked DSA-style example:
+  structured data mapping
+
+- 1 worked quant-style example:
+  simulate realistic trading environment
+
+Then give me:
+- 10 maths questions (mapped to real-world)
+- 1 implementation task:
+  convert abstract problem into real model
+
+- 1 DSA-style task:
+  structure real-world data
+
+- 1 quant-style coding task:
+  simulate realistic scenario
+
+Focus especially on:
+- translation from theory → practice
+- intuitive understanding
+- applicability
+
+---
+
+## DAY 92 — DECISION MAKING + TRADE-OFFS AND CAPITAL ALLOCATION
+
+Today I am studying:
+- decision making under constraints
+- trade-offs
+- capital allocation
+
+And I am pairing that with programming on:
+- optimisation under constraints
+- decision systems
+
+For the maths section, teach me:
+- how to:
+  - allocate resources optimally
+- how to:
+  - balance:
+    - risk
+    - return
+    - probability
+- how constraints affect decisions
+
+Then show me:
+- 3 fully worked examples:
+  optimal decision-making problems
+
+After that, for the programming section, teach me:
+- how to:
+  - model decision systems
+- how to:
+  - simulate trade-offs
+
+Then show me:
+- 1 worked implementation example:
+  decision model
+
+- 1 worked DSA-style example:
+  constrained optimisation
+
+- 1 worked quant-style example:
+  capital allocation simulation
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  build decision model
+
+- 1 DSA-style task:
+  constrained optimisation problem
+
+- 1 quant-style coding task:
+  simulate capital allocation strategy
+
+Focus especially on:
+- trade-offs
+- optimisation under constraints
+- decision clarity
+
+---
+
+## DAY 93 — UNCERTAINTY MANAGEMENT + DYNAMIC UPDATING AND BELIEF REVISION
+
+Today I am studying:
+- updating beliefs with new information
+- dynamic reasoning
+- uncertainty management
+
+And I am pairing that with programming on:
+- updating models over time
+- adaptive systems
+
+For the maths section, teach me:
+- how to:
+  - update probabilities when new information arrives
+- how to:
+  - revise expectations dynamically
+- how this appears in:
+  - markets
+  - decision systems
+
+Then show me:
+- 3 fully worked examples:
+  belief updating problems
+
+After that, for the programming section, teach me:
+- how to:
+  - update models dynamically
+- how to:
+  - simulate changing environments
+
+Then show me:
+- 1 worked implementation example:
+  dynamic system
+
+- 1 worked DSA-style example:
+  updating data structures
+
+- 1 worked quant-style example:
+  adaptive trading model
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  build adaptive model
+
+- 1 DSA-style task:
+  dynamic updates
+
+- 1 quant-style coding task:
+  simulate model that updates with new information
+
+Focus especially on:
+- adaptability
+- updating beliefs
+- reacting to information
+
+---
+
+## DAY 94 — LONG-TERM THINKING + REPEATED DECISIONS AND STRATEGY EVOLUTION
+
+Today I am studying:
+- long-term strategies
+- repeated decisions
+- compounding effects
+
+And I am pairing that with programming on:
+- long-run simulations
+- strategy evaluation over time
+
+For the maths section, teach me:
+- how repeated decisions affect outcomes
+- how:
+  - small edges compound
+- how to evaluate long-term performance
+
+Then show me:
+- 3 fully worked examples:
+  repeated decision problems
+
+After that, for the programming section, teach me:
+- how to:
+  - simulate long-term systems
+- how to:
+  - track performance over time
+
+Then show me:
+- 1 worked implementation example:
+  long-run simulation
+
+- 1 worked DSA-style example:
+  cumulative tracking
+
+- 1 worked quant-style example:
+  evaluate strategy over many iterations
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  simulate long-term system
+
+- 1 DSA-style task:
+  cumulative tracking problem
+
+- 1 quant-style coding task:
+  evaluate long-term trading strategy
+
+Focus especially on:
+- compounding
+- long-term reasoning
+- consistency
+
+---
+
+## DAY 95 — INDEPENDENT THINKING + FROM FOLLOWING PATHS TO CREATING THEM
+
+Today I am studying:
+- independent thinking
+- creating my own approaches
+- questioning assumptions
+
+And I am pairing that with programming on:
+- designing original systems
+- building tools without templates
+
+For the maths section, teach me:
+- how to:
+  - question standard approaches
+  - explore alternatives
+- how to:
+  - create new problem-solving paths
+
+Then show me:
+- 3 fully worked examples:
+  alternative approaches to known problems
+
+After that, for the programming section, teach me:
+- how to:
+  - design systems from scratch
+- how to:
+  - build tools rather than just solve problems
+
+Then show me:
+- 1 worked implementation example:
+  original system
+
+- 1 worked DSA-style example:
+  unconventional solution
+
+- 1 worked quant-style example:
+  design new model
+
+Then give me:
+- 10 open-ended maths questions
+- 1 implementation task:
+  design system from scratch
+
+- 1 DSA-style task:
+  alternative solution
+
+- 1 quant-style coding task:
+  build and test your own model
+
+Focus especially on:
+- independence
+- creativity
+- ownership of thinking
+
+# DAYS 96–100 — FULL MERGED MATHS + PROGRAMMING (PROFESSIONAL LEVEL / END STATE)
+
+---
+
+## DAY 96 — OWNERSHIP + FROM SOLVING PROBLEMS TO OWNING SYSTEMS
+
+Today I am studying:
+- ownership of systems
+- responsibility for outcomes
+- thinking beyond individual problems
+
+And I am pairing that with programming on:
+- building systems end-to-end
+- maintaining and improving systems
+
+For the maths section, teach me:
+- how to:
+  - take full ownership of a model
+  - understand every assumption
+- how to:
+  - evaluate system performance holistically
+
+Then show me:
+- 3 fully worked examples:
+  problem → system → evaluation
+
+After that, for the programming section, teach me:
+- how to:
+  - build complete pipelines
+  - maintain and improve systems
+
+Then show me:
+- 1 worked implementation example:
+  full pipeline
+
+- 1 worked DSA-style example:
+  structured system
+
+- 1 worked quant-style example:
+  full trading system lifecycle
+
+Then give me:
+- 10 system-level questions
+- 1 implementation task:
+  build full system
+
+- 1 DSA-style task:
+  structured pipeline
+
+- 1 quant-style coding task:
+  design, simulate, and evaluate full trading system
+
+Focus especially on:
+- ownership
+- completeness
+- responsibility
+
+---
+
+## DAY 97 — CRITICAL THINKING + CHALLENGING RESULTS AND AVOIDING FALSE CONFIDENCE
+
+Today I am studying:
+- critical thinking
+- questioning results
+- avoiding false certainty
+
+And I am pairing that with programming on:
+- validating outputs
+- testing assumptions
+- building safeguards
+
+For the maths section, teach me:
+- how to:
+  - question results
+  - avoid overconfidence
+- how to:
+  - detect when something is “too good to be true”
+
+Then show me:
+- 3 fully worked examples:
+  results challenged and corrected
+
+After that, for the programming section, teach me:
+- how to:
+  - validate systems
+  - test assumptions
+
+Then show me:
+- 1 worked implementation example:
+  validation checks
+
+- 1 worked DSA-style example:
+  correctness verification
+
+- 1 worked quant-style example:
+  detect unrealistic performance
+
+Then give me:
+- 10 critical thinking questions
+- 1 implementation task:
+  validate system
+
+- 1 DSA-style task:
+  correctness checks
+
+- 1 quant-style coding task:
+  detect unrealistic results in simulation
+
+Focus especially on:
+- scepticism
+- validation
+- correctness
+
+---
+
+## DAY 98 — DECISION QUALITY + MAKING HIGH-STAKES DECISIONS UNDER UNCERTAINTY
+
+Today I am studying:
+- decision quality
+- high-stakes reasoning
+- balancing incomplete information
+
+And I am pairing that with programming on:
+- decision systems
+- evaluating outcomes
+
+For the maths section, teach me:
+- how to:
+  - make decisions with incomplete data
+- how to:
+  - evaluate decision quality, not just outcome
+- how to:
+  - handle uncertainty confidently
+
+Then show me:
+- 3 fully worked examples:
+  decision-making under uncertainty
+
+After that, for the programming section, teach me:
+- how to:
+  - implement decision systems
+- how to:
+  - evaluate performance
+
+Then show me:
+- 1 worked implementation example:
+  decision system
+
+- 1 worked DSA-style example:
+  decision logic
+
+- 1 worked quant-style example:
+  trading decision evaluation
+
+Then give me:
+- 10 maths questions
+- 1 implementation task:
+  build decision system
+
+- 1 DSA-style task:
+  decision logic
+
+- 1 quant-style coding task:
+  simulate decisions and evaluate quality
+
+Focus especially on:
+- quality of reasoning
+- decision clarity
+- handling uncertainty
+
+---
+
+## DAY 99 — IMPACT + FROM ANALYSIS TO ACTIONABLE INSIGHT
+
+Today I am studying:
+- turning analysis into insight
+- making results actionable
+- communicating impact
+
+And I am pairing that with programming on:
+- presenting results
+- structuring outputs
+
+For the maths section, teach me:
+- how to:
+  - extract insight from results
+  - identify what matters
+- how to:
+  - turn numbers into decisions
+
+Then show me:
+- 3 fully worked examples:
+  analysis → insight → action
+
+After that, for the programming section, teach me:
+- how to:
+  - present results clearly
+  - structure outputs
+
+Then show me:
+- 1 worked implementation example:
+  result presentation
+
+- 1 worked DSA-style example:
+  structured output
+
+- 1 worked quant-style example:
+  interpret simulation results
+
+Then give me:
+- 10 insight-focused questions
+- 1 implementation task:
+  present results clearly
+
+- 1 DSA-style task:
+  structured output
+
+- 1 quant-style coding task:
+  analyse system and extract actionable insight
+
+Focus especially on:
+- clarity of insight
+- usefulness
+- communication
+
+---
+
+## DAY 100 — FINAL STATE + OPERATING AS A QUANT RESEARCHER
+
+Today I am operating at full level.
+
+Maths:
+- fully internalised
+
+Programming:
+- fully internalised
+
+For the maths section, teach me:
+- how to:
+  - approach any problem
+  - build models from scratch
+  - question everything
+
+Then show me:
+- 3 full examples:
+  idea → model → test → insight
+
+After that, for the programming section, teach me:
+- how to:
+  - build tools
+  - test ideas
+  - iterate continuously
+
+Then show me:
+- 1 worked implementation example:
+  full research tool
+
+- 1 worked DSA-style example:
+  evolved solution
+
+- 1 worked quant-style example:
+  full strategy development
+
+Then give me:
+- 10 open-ended problems
+- 1 implementation task:
+  build full system
+
+- 1 DSA-style task:
+  evolve and optimise solution
+
+- 1 quant-style coding task:
+  design, simulate, analyse, and refine a complete system
+
+Focus especially on:
+- independence
+- ownership
+- continuous improvement
