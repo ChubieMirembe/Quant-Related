@@ -11,8 +11,11 @@ Structure per day:
 # 1. PROBABILITY (≈ 30–40 days)
 
 ## Foundations
-- Day 1: Sample space, events, basic probability  
+- Day 1: Sample space, events, basic probability
+    - Variance was introduced here and I had some issues writing the code, which implies that I may not fully understand it. Would be good to test my understand by answering question to do with it in the future, specfifcally writing code.
 - Day 2: Conditional probability basics  
+    - Having some issues with basic python, but I assume that will get better with time and as I write more semi-assissted code.
+    - I think I'm going to turn of copilot whilst working, so I can actually use my brain, this is not the time for speed.
 - Day 3: Independence vs dependence  
 - Day 4: Law of total probability  
 - Day 5: Bayes’ theorem  
